@@ -1,1 +1,1 @@
-# Heating_ventilation_and_-air_-conditioning
+In this project, I have a duplex villa which I specify its location, dimensions, wall construction, windows type, equipment, number of people…to calculate the cooling load using the radiant time series method (RTSM) for a single room and using HAP software to perform the cooling load calculation for all the building.
